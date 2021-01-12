@@ -2,7 +2,7 @@
 
 namespace DesignPattern.Creational.AbstractFactory
 {
-    class MainApp
+    /*class MainApp
     {
         public static void Main()
         {
@@ -15,7 +15,7 @@ namespace DesignPattern.Creational.AbstractFactory
             world.RunFoodChain();
 
             Console.ReadKey();
-
+             
         }
-    }
+    }*/
 }
