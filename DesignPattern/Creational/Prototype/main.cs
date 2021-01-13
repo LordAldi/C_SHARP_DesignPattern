@@ -6,7 +6,7 @@ namespace DesignPattern.Creational.Prototype
 {
     class main
     {
-        public static void Main()
+        /*public static void Main()
         {
             ColorManager colormanager = new ColorManager();
 
@@ -25,6 +25,6 @@ namespace DesignPattern.Creational.Prototype
             Console.ReadKey();
 
 
-        }
+        }*/
     }
 }
