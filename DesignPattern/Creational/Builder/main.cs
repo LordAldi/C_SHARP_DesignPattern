@@ -6,7 +6,7 @@ namespace DesignPattern.Creational.Builder
 {
     class main
     {
-        public static void Main()
+       /* public static void Main()
         {
             VehicleBuilder builder;
             // Create shop with vehicle builders
@@ -28,6 +28,6 @@ namespace DesignPattern.Creational.Builder
 
             Console.ReadKey();
 
-        }
+        }*/
     }
 }
