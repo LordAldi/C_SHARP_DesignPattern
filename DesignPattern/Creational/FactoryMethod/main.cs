@@ -6,7 +6,7 @@ namespace DesignPattern.Creational.FactoryMethod
 {
     class main
     {
-        public static void Main()
+        /*public static void Main()
         {
             Document[] documents = new Document[2];
 
@@ -24,6 +24,6 @@ namespace DesignPattern.Creational.FactoryMethod
             // Wait for user
 
             Console.ReadKey();
-        }
+        }*/
     }
 }
